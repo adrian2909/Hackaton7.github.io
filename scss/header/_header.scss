@@ -1,0 +1,49 @@
+header{
+    background-color: #E3DAC9;
+}
+.Cabezera{
+    display: flex;
+   &-Item{
+       padding: 2em;
+
+   }
+   &-Itemm{
+       padding: 2em;
+       margin-left: 1400px;
+   }
+    
+   
+}
+.Title{
+    &-Item{
+        font-size: 25px;
+        text-align: center;
+    }
+    &-Itemm{
+        font-size: 15px;
+        text-align: center;
+    }
+}
+.Form{
+    display: flex;
+    margin: 2em;
+    margin-right: 25%;
+    margin-left: 25%;
+    
+    &-Item{
+        margin: 2em;
+    }
+    &-Itemm{
+        margin: 2em;
+        color: yellow;
+    }
+    &-Itemn{
+      width: 80px;
+      height: 30px;
+      background-color: yellow;
+      color: black;
+      border:solid black 2px;
+      border-radius:  8px 8px 8px 8px;
+    }
+   
+}

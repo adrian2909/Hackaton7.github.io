@@ -1,0 +1,26 @@
+.Horarios{
+    margin-left: 30%;
+    margin-right:30% ;
+    display: flex;
+  }
+
+.Dioses{
+    margin-left: 35%;
+    margin-right:35%;
+   
+    display: flex;
+   &-Item{
+       margin: 1em;
+       width: 250px;
+       height: 350px;
+   }
+   &-Circle{
+    width: 80px;
+    height: 80px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background-color: greenyellow;
+
+   }
+}  

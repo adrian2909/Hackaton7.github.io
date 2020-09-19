@@ -1,0 +1,180 @@
+header {
+  background-color: #E3DAC9;
+}
+
+.Cabezera {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.Cabezera-Item {
+  padding: 2em;
+}
+
+.Cabezera-Itemm {
+  padding: 2em;
+  margin-left: 1400px;
+}
+
+.Title-Item {
+  font-size: 25px;
+  text-align: center;
+}
+
+.Title-Itemm {
+  font-size: 15px;
+  text-align: center;
+}
+
+.Form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 2em;
+  margin-right: 25%;
+  margin-left: 25%;
+}
+
+.Form-Item {
+  margin: 2em;
+}
+
+.Form-Itemm {
+  margin: 2em;
+  color: yellow;
+}
+
+.Form-Itemn {
+  width: 80px;
+  height: 30px;
+  background-color: yellow;
+  color: black;
+  border: solid black 2px;
+  border-radius: 8px 8px 8px 8px;
+}
+
+.Icons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.Icons-Items {
+  margin: 2em;
+}
+
+.Icons-circulo {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: yellow;
+}
+
+.Info {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.Info-Items {
+  margin-left: 25%;
+  margin-right: 10%;
+  width: 500px;
+  background-color: yellow;
+}
+
+.Info-Itemms {
+  margin-right: 25%;
+}
+
+.Division {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.Division-Item {
+  margin-left: 25%;
+  width: 400px;
+}
+
+.Division-Itemm {
+  width: 300px;
+}
+
+.Division-item {
+  margin-right: 25%;
+}
+
+.Square {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
+}
+
+.Square-Item {
+  width: 280px;
+  height: 280px;
+  margin: 2em;
+  border: solid gainsboro 2px;
+}
+
+.Square-number {
+  font-size: 45px;
+}
+
+.Horarios {
+  margin-left: 30%;
+  margin-right: 30%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.Dioses {
+  margin-left: 35%;
+  margin-right: 35%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.Dioses-Item {
+  margin: 1em;
+  width: 250px;
+  height: 350px;
+}
+
+.Dioses-Circle {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background-color: greenyellow;
+}
+
+.Poll {
+  width: 1000px;
+  height: 250px;
+  margin-left: 25%;
+  margin-right: 25%;
+  background-color: yellow;
+  text-align: center;
+}
+
+.Poll-items {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 2em;
+}
+
+.Poll-item {
+  margin: 2em;
+}
+/*# sourceMappingURL=styles.css.map */

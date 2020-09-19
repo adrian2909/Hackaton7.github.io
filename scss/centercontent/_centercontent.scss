@@ -1,0 +1,32 @@
+.Division{
+    display: flex;
+    &-Item{
+        margin-left: 25%;
+        width: 400px;
+    }
+    &-Itemm{
+        
+        width: 300px;
+    }
+    &-item{
+        margin-right: 25%;
+      
+    }
+}
+.Square{
+    display: flex;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+
+    &-Item{
+        width: 280px;
+        height: 280px;
+        margin: 2em;
+        border: solid gainsboro 2px;
+
+    }
+    &-number{
+        font-size: 45px;
+    }
+}
